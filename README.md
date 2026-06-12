@@ -9,3 +9,4 @@ A command-line tool to manage users, projects, and tasks with JSON persistence.
    python -m venv venv
    source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
+## Version 1.0
